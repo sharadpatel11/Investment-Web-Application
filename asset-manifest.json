@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Investment-Web-Application/static/css/main.037d8227.css",
+    "main.js": "/Investment-Web-Application/static/js/main.c4675340.js",
+    "static/media/header-image2.png": "/Investment-Web-Application/static/media/header-image2.2f57d2c88558a7565bfd.png",
+    "static/media/Finance Icons.svg": "/Investment-Web-Application/static/media/Finance Icons.3eaf30d4e60f04cf0e611b2c7f5f1254.svg",
+    "index.html": "/Investment-Web-Application/index.html",
+    "main.037d8227.css.map": "/Investment-Web-Application/static/css/main.037d8227.css.map",
+    "main.c4675340.js.map": "/Investment-Web-Application/static/js/main.c4675340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.037d8227.css",
+    "static/js/main.c4675340.js"
+  ]
+}
