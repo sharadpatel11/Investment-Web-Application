@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
+
+.sj__footer {
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+}
+
+.sj__footer img {
+    max-height: 23px;
+    max-width: 23px;
+}
+
+.sj__footer h3 {
+    font-family: 'Maitree';
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 850px) {
+    .sj__footer img {
+        max-height: 15px;
+        max-width: 15px;
+    }
+    
+    .sj__footer h3 {
+        margin-left: 5px;
+        font-size: 10px;
+    }
+}
